@@ -1,3 +1,6 @@
+Project status : Ongoing (Incomplete)
+
+
 BizCardX: Extracting Business Card Data with OCR
 
 To develop a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR. The extracted information should include the company name, card holder
